@@ -2,4 +2,4 @@
 
 ## Summarize YouTube Videos with LlamaIndex - Part 2
 [Medium Article](https://medium.com/@bSharpML/summarize-youtube-videos-with-llamaindex-part-2-baaac5a7d0cd)  
-[Code](https://github.com/bSharpCyclist/blogs/tree/main/llama-index)
+[Code](https://github.com/bSharpCyclist/blogs/blob/main/llama-index/Youtube-Llama-Index.html)
