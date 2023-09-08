@@ -1,7 +1,7 @@
 # Blog Articles
 
 ## Use LlamaIndex and a Local LLM to Summarize YouTube Videos 
-[Medium Article](https://medium.com/@bSharpML/use-llamaindex-and-a-local-llm-to-summarize-youtube-videos-29817440e671)
+[Medium Article](https://medium.com/@bSharpML/use-llamaindex-and-a-local-llm-to-summarize-youtube-videos-29817440e671)  
 [Code](https://github.com/bSharpCyclist/blogs/blob/main/llama-index/LocalLlama.ipynb)
 
 ## Summarize YouTube Videos with LlamaIndex - Part 2
